@@ -86,6 +86,7 @@
     scroll-behavior: smooth; } }
 
 body {
+  scroll-behavior: smooth;
   margin: 0;
   font-family: var(--bs-font-sans-serif);
   font-size: 1rem;
